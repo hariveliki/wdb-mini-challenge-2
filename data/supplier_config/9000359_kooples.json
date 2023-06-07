@@ -1,0 +1,15 @@
+{
+    "search_url": "https://www.thekooples.com/int/de_CH/search?q=",
+    "search_attribute": "supplier_sku",
+    "general_xpaths": {
+        "title" : "//*[@id=\"maincontent\"]/div[1]/p/span[1]",
+        "description" : "//*[@id=\"collapsible-description-1\"]"
+    },
+    "webpage_xpaths" : {
+        "0" : "//*[@id=\"product-search-results\"]/div[2]/div[2]/div/div[1]/div/div/div[2]/div[1]/a",
+        "1" : "//*[@id=\"product-search-results\"]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[1]/a"
+    },
+    "result_ids": {
+        "www_description": ""
+    }
+}

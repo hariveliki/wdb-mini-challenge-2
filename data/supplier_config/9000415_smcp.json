@@ -1,0 +1,15 @@
+{
+    "search_url": "https://ch.claudiepierlot.com/de_CH/search?q=",
+    "search_attribute": "supplier_sku",
+    "general_xpaths": {
+        "title" : "",
+        "description" : "//*[@id=\"main-slide-product\"]/div[1]/div/div[2]/div[2]"
+    },
+    "webpage_xpaths" : {
+        "0" : "",
+        "1" : ""
+    },
+    "result_ids": {
+        "www_description": ""
+    }
+}
